@@ -2,7 +2,7 @@
 
 ![YaMDB_workflow](https://github.com/comsomolec/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
-* Проект доступен по адресу: https://158.160.101.218
+* Проект доступен по адресу: http://158.160.101.218
 
 * Полная документация доступна по адресу: http://158.160.101.218/redoc/
 
